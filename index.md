@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 你若安好，便是晴天！
 
 You can use the [editor on GitHub](https://github.com/tc6-01/Exam/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
